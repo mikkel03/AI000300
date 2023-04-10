@@ -1,1 +1,0 @@
-now write a new class named "std" with m
